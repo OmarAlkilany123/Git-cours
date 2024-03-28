@@ -1,4 +1,4 @@
 # Git-cours
-for  the first proj
+for  the first project
 
-project notes
+project notesp
